@@ -27,4 +27,4 @@ organization: false
 # post order
 # order by create time" or "update time"
 # 'UPDATED_AT' or 'CREATED_AT'
-order: 'UPDATED_AT'
+order: 'CREATED_AT'
