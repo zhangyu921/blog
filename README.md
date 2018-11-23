@@ -1,3 +1,3 @@
-# Little blog in issues
+# Blog in issues
 
-Or pretty view:  http://yus.world/blog
+Site: http://basilzhang.com/blog
