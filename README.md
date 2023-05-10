@@ -1,3 +1,3 @@
 # Blog in issues
 
-Site: http://basilzhang.com/blog
+See: https://github.com/zhangyu921/blog/issues
